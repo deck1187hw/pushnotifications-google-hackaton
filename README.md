@@ -1,6 +1,10 @@
 # igacademy
 
-> My delightful Nuxt.js project
+> Google Hackaton Event https://events.withgoogle.com/modern-mobile-web-hackathon-at-google-london-3/
+27 February 2019
+Implementing Web Push notifications with Service Workers in a NuxtJS App.
+We turned IG Academy content into a PWA, using a server-side JS application and  enabling caching of its main assets (CSS/JS), and serving the files on bundled minimised HTML/CSS/JS from a VueJS app.
+
 
 ## Build Setup
 
